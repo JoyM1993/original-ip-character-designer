@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1150" viewBox="0 0 960 1150" role="img" aria-labelledby="title description">
+  <title id="title">原创角色设计八组可选色板</title>
+  <desc id="description">五组双色与三组三色。色值由使用者指定，色块面积展示建议比例。</desc>
+  <rect width="960" height="1150" fill="#FFFFFF"/>
+  <text x="40" y="58" font-family="Arial, Microsoft YaHei, sans-serif" font-size="30" font-weight="bold" fill="#070D3F">八组原创角色色板</text>
+  <text x="40" y="91" font-family="Arial, Microsoft YaHei, sans-serif" font-size="16" fill="#070D3F">双色建议 75/25 · 三色建议 70/20/10 · 文字色按可读性另选</text>
+  <g font-family="Arial, Microsoft YaHei, sans-serif" font-size="18" fill="#070D3F">
+    <text x="40" y="142">B1</text><text x="105" y="142">深蓝与莹白</text>
+    <rect x="40" y="154" width="660" height="54" fill="#E3F9FD"/><rect x="700" y="154" width="220" height="54" fill="#0B3289"/>
+    <text x="40" y="233" font-size="14">#E3F9FD 75% · #0B3289 25%</text>
+    <text x="40" y="273">B2</text><text x="105" y="273">明橙与乳白</text>
+    <rect x="40" y="285" width="660" height="54" fill="#F3F3F3"/><rect x="700" y="285" width="220" height="54" fill="#FF8A00"/>
+    <text x="40" y="364" font-size="14">#F3F3F3 75% · #FF8A00 25%</text>
+    <text x="40" y="404">B3</text><text x="105" y="404">酒红与鱼肚白</text>
+    <rect x="40" y="416" width="660" height="54" fill="#FCEFE8"/><rect x="700" y="416" width="220" height="54" fill="#4A010A"/>
+    <text x="40" y="495" font-size="14">#FCEFE8 75% · #4A010A 25%</text>
+    <text x="40" y="535">B4</text><text x="105" y="535">明橙与焰黑</text>
+    <rect x="40" y="547" width="660" height="54" fill="#070D3F"/><rect x="700" y="547" width="220" height="54" fill="#FF8A00"/>
+    <text x="40" y="626" font-size="14">#070D3F 75% · #FF8A00 25%</text>
+    <text x="40" y="666">B5</text><text x="105" y="666">扁豆紫与藏青</text>
+    <rect x="40" y="678" width="660" height="54" fill="#042340"/><rect x="700" y="678" width="220" height="54" fill="#A762E6"/>
+    <text x="40" y="757" font-size="14">#042340 75% · #A762E6 25%</text>
+    <text x="40" y="797">T1</text><text x="105" y="797">香芋紫、芝麻蓝与婴儿粉</text>
+    <rect x="40" y="809" width="616" height="54" fill="#F9E5DE"/><rect x="656" y="809" width="176" height="54" fill="#C98EFF"/><rect x="832" y="809" width="88" height="54" fill="#313B56"/>
+    <text x="40" y="888" font-size="14">#F9E5DE 70% · #C98EFF 20% · #313B56 10%</text>
+    <text x="40" y="928">T2</text><text x="105" y="928">深绿、嫩绿与暖米</text>
+    <rect x="40" y="940" width="616" height="54" fill="#F8F2C7"/><rect x="656" y="940" width="176" height="54" fill="#3C7A17"/><rect x="832" y="940" width="88" height="54" fill="#BBC773"/>
+    <text x="40" y="1019" font-size="14">#F8F2C7 70% · #3C7A17 20% · #BBC773 10%</text>
+    <text x="40" y="1059">T3</text><text x="105" y="1059">荔枝白、雪青与藏蓝</text>
+    <rect x="40" y="1071" width="616" height="32" fill="#FEFFEF"/><rect x="656" y="1071" width="176" height="32" fill="#3B2E7E"/><rect x="832" y="1071" width="88" height="32" fill="#B0A4E3"/>
+    <text x="40" y="1130" font-size="14">#FEFFEF 70% · #3B2E7E 20% · #B0A4E3 10%</text>
+  </g>
+</svg>

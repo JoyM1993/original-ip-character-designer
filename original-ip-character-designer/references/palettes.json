@@ -1,0 +1,91 @@
+{
+  "palettes": [
+    {
+      "id": "B1",
+      "label": "深蓝与莹白",
+      "colors": ["#0B3289", "#E3F9FD"],
+      "roles": ["主体", "背景"],
+      "ratio": [25, 75],
+      "textColor": "#0B3289",
+      "textFallback": "#FFFFFF",
+      "mood": "清醒、可靠，适合线条明确的角色"
+    },
+    {
+      "id": "B2",
+      "label": "明橙与乳白",
+      "colors": ["#FF8A00", "#F3F3F3"],
+      "roles": ["主体或点缀", "背景"],
+      "ratio": [25, 75],
+      "textColor": "#000000",
+      "textFallback": "#FFFFFF",
+      "mood": "亲近、有活力，适合温暖的轻量角色"
+    },
+    {
+      "id": "B3",
+      "label": "酒红与鱼肚白",
+      "colors": ["#4A010A", "#FCEFE8"],
+      "roles": ["主体", "背景"],
+      "ratio": [25, 75],
+      "textColor": "#4A010A",
+      "textFallback": "#FFFFFF",
+      "mood": "沉静、复古，适合有叙事感的角色"
+    },
+    {
+      "id": "B4",
+      "label": "明橙与焰黑",
+      "colors": ["#FF8A00", "#070D3F"],
+      "roles": ["主体或点缀", "背景"],
+      "ratio": [25, 75],
+      "textColor": "#FFFFFF",
+      "textFallback": "#070D3F",
+      "mood": "醒目、有舞台感，适合需要远距离识别的角色"
+    },
+    {
+      "id": "B5",
+      "label": "扁豆紫与藏青",
+      "colors": ["#A762E6", "#042340"],
+      "roles": ["主体或点缀", "背景"],
+      "ratio": [25, 75],
+      "textColor": "#FFFFFF",
+      "textFallback": "#042340",
+      "mood": "奇想、克制，适合稍带科技感的角色"
+    },
+    {
+      "id": "T1",
+      "label": "香芋紫、芝麻蓝与婴儿粉",
+      "colors": ["#C98EFF", "#313B56", "#F9E5DE"],
+      "roles": ["主体", "细节", "背景"],
+      "ratio": [20, 10, 70],
+      "textColor": "#313B56",
+      "textFallback": "#FFFFFF",
+      "mood": "柔软、有想象力，适合亲和的故事角色"
+    },
+    {
+      "id": "T2",
+      "label": "深绿、嫩绿与暖米",
+      "colors": ["#3C7A17", "#BBC773", "#F8F2C7"],
+      "roles": ["主体", "细节", "背景"],
+      "ratio": [20, 10, 70],
+      "textColor": "#3C7A17",
+      "textFallback": "#000000",
+      "mood": "自然、松弛，适合手作和成长主题"
+    },
+    {
+      "id": "T3",
+      "label": "荔枝白、雪青与藏蓝",
+      "colors": ["#FEFFEF", "#B0A4E3", "#3B2E7E"],
+      "roles": ["背景", "点缀", "主体"],
+      "ratio": [70, 10, 20],
+      "textColor": "#3B2E7E",
+      "textFallback": "#FFFFFF",
+      "mood": "清透、理性，适合简洁而不冷淡的角色"
+    }
+  ],
+  "recommendations": {
+    "极简线描": ["B1", "B3", "T3"],
+    "几何现代": ["B4", "B5", "T2"],
+    "复古拼贴": ["B2", "B3", "T2"],
+    "柔和手作": ["B2", "T1", "T3"],
+    "编辑插画": ["B1", "B4", "T1"]
+  }
+}
